@@ -1,0 +1,7 @@
+echo "EPOO" - README.md
+git init
+git añadir README.md
+git commit -m "primer commit"
+rit rama -M principal
+git remote add origin https://github.com/MikaelaRosero/espePOO.git
+git push -u origen principal
